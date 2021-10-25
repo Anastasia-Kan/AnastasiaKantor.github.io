@@ -1,2 +1,2 @@
-# AnastasiaKantor.github.io
-Developer's Homepage
+# Anastasia Kantor
+Developer's Portfolio
